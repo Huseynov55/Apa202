@@ -5,22 +5,22 @@
         static void Main(string[] args)
         {
             int[] arr1 = [ 1, 2, 3, 4 ];
-            int[] arr2 = [ 5, 6, 7, 8 ];
-            CustomArrResize(ref arr1, arr2);
+            int[] nums = [ 5, 6, 7, 8 ];
+            CustomArrResize(ref arr1, nums);
 
             for (int i = 0; i < arr1.Length; i++)
             {
-                Console.WriteLine(arr1[i]);
+                Console.Write(arr1[i] + " ");
             }
         }
-        public static void CustomArrResize(ref int[] array1, int[] array2)
+        public static void CustomArrResize(ref int[] array1, int[] nums)
         {
-            int[] newarr= new int[array1.Length + array2.Length];
+            int[] newarr= new int[array1.Length + nums.Length];
             for (int i = 0; i < newarr.Length; i++)
             {
                 if (i>=array1.Length)
                 {
-                    newarr[i] = array2[i-array1.Length];
+                    newarr[i] = nums[i-array1.Length];
                 }
                 else
                 {
