@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\anarh\\Desktop\\Apa202\\02-HeapStackRefOutArrayResize\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC84895C-CE38-4A78-8E4B-162478EED68E}|02-HeapStackRefOutArrayResize\\02-HeapStackRefOutArrayResize.csproj|c:\\users\\anarh\\desktop\\apa202\\02-heapstackrefoutarrayresize\\02-heapstackrefoutarrayresize\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC84895C-CE38-4A78-8E4B-162478EED68E}|02-HeapStackRefOutArrayResize\\02-HeapStackRefOutArrayResize.csproj|solutionrelative:02-heapstackrefoutarrayresize\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\anarh\\Desktop\\Apa202\\02-HeapStackRefOutArrayResize\\02-HeapStackRefOutArrayResize\\Program.cs",
+              "RelativeDocumentMoniker": "02-HeapStackRefOutArrayResize\\Program.cs",
+              "ToolTip": "C:\\Users\\anarh\\Desktop\\Apa202\\02-HeapStackRefOutArrayResize\\02-HeapStackRefOutArrayResize\\Program.cs",
+              "RelativeToolTip": "02-HeapStackRefOutArrayResize\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAswB0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T18:04:49.1Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
