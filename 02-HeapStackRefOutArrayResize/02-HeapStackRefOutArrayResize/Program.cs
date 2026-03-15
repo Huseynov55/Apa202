@@ -4,16 +4,15 @@
     {
         static void Main(string[] args)
         {
-            int[] arr1 = [ 1, 2, 3, 4 ];
-            int[] nums = [ 5, 6, 7, 8 ];
-            CustomArrResize(ref arr1, nums);
+            int[] arr1 = [1, 2, 3, 4];
+            CustomArrResize(ref arr1, [5, 6, 7, 8]);
 
             for (int i = 0; i < arr1.Length; i++)
             {
                 Console.Write(arr1[i] + " ");
             }
         }
-        public static void CustomArrResize(ref int[] array1, int[] nums)
+        public static void CustomArrResize(ref int[] array1, params int[] nums)
         {
             int[] newarr= new int[array1.Length + nums.Length];
             for (int i = 0; i < newarr.Length; i++)
