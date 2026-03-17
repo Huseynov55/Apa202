@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\anarh\\Desktop\\Apa202\\03-ObjectClassConstructorInheritanceThisvsBase\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{021FF4A6-6737-4294-8EAF-335450322624}|03-ObjectClassConstructorInheritanceThisvsBase\\03-ObjectClassConstructorInheritanceThisvsBase.csproj|c:\\users\\anarh\\desktop\\apa202\\03-objectclassconstructorinheritancethisvsbase\\03-objectclassconstructorinheritancethisvsbase\\administrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{021FF4A6-6737-4294-8EAF-335450322624}|03-ObjectClassConstructorInheritanceThisvsBase\\03-ObjectClassConstructorInheritanceThisvsBase.csproj|solutionrelative:03-objectclassconstructorinheritancethisvsbase\\administrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E107272D-E2DA-1C49-AE82-6FA4F7C17C58}|03-ObjectClassConstructorInheritanceThisvsBase\\03-ObjectClassConstructorInheritanceThisvsBase.csproj|c:\\users\\anarh\\desktop\\apa202\\03-objectclassconstructorinheritancethisvsbase\\03-objectclassconstructorinheritancethisvsbase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E107272D-E2DA-1C49-AE82-6FA4F7C17C58}|03-ObjectClassConstructorInheritanceThisvsBase\\03-ObjectClassConstructorInheritanceThisvsBase.csproj|solutionrelative:03-objectclassconstructorinheritancethisvsbase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{021FF4A6-6737-4294-8EAF-335450322624}|03-ObjectClassConstructorInheritanceThisvsBase\\03-ObjectClassConstructorInheritanceThisvsBase.csproj|c:\\users\\anarh\\desktop\\apa202\\03-objectclassconstructorinheritancethisvsbase\\03-objectclassconstructorinheritancethisvsbase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{021FF4A6-6737-4294-8EAF-335450322624}|03-ObjectClassConstructorInheritanceThisvsBase\\03-ObjectClassConstructorInheritanceThisvsBase.csproj|solutionrelative:03-objectclassconstructorinheritancethisvsbase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E107272D-E2DA-1C49-AE82-6FA4F7C17C58}|03-ObjectClassConstructorInheritanceThisvsBase\\03-ObjectClassConstructorInheritanceThisvsBase.csproj|c:\\users\\anarh\\desktop\\apa202\\03-objectclassconstructorinheritancethisvsbase\\03-objectclassconstructorinheritancethisvsbase\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E107272D-E2DA-1C49-AE82-6FA4F7C17C58}|03-ObjectClassConstructorInheritanceThisvsBase\\03-ObjectClassConstructorInheritanceThisvsBase.csproj|solutionrelative:03-objectclassconstructorinheritancethisvsbase\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{021FF4A6-6737-4294-8EAF-335450322624}|03-ObjectClassConstructorInheritanceThisvsBase\\03-ObjectClassConstructorInheritanceThisvsBase.csproj|c:\\users\\anarh\\desktop\\apa202\\03-objectclassconstructorinheritancethisvsbase\\03-objectclassconstructorinheritancethisvsbase\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{021FF4A6-6737-4294-8EAF-335450322624}|03-ObjectClassConstructorInheritanceThisvsBase\\03-ObjectClassConstructorInheritanceThisvsBase.csproj|solutionrelative:03-objectclassconstructorinheritancethisvsbase\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E107272D-E2DA-1C49-AE82-6FA4F7C17C58}|03-ObjectClassConstructorInheritanceThisvsBase\\03-ObjectClassConstructorInheritanceThisvsBase.csproj|c:\\users\\anarh\\desktop\\apa202\\03-objectclassconstructorinheritancethisvsbase\\03-objectclassconstructorinheritancethisvsbase\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E107272D-E2DA-1C49-AE82-6FA4F7C17C58}|03-ObjectClassConstructorInheritanceThisvsBase\\03-ObjectClassConstructorInheritanceThisvsBase.csproj|solutionrelative:03-objectclassconstructorinheritancethisvsbase\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{021FF4A6-6737-4294-8EAF-335450322624}|03-ObjectClassConstructorInheritanceThisvsBase\\03-ObjectClassConstructorInheritanceThisvsBase.csproj|c:\\users\\anarh\\desktop\\apa202\\03-objectclassconstructorinheritancethisvsbase\\03-objectclassconstructorinheritancethisvsbase\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{021FF4A6-6737-4294-8EAF-335450322624}|03-ObjectClassConstructorInheritanceThisvsBase\\03-ObjectClassConstructorInheritanceThisvsBase.csproj|solutionrelative:03-objectclassconstructorinheritancethisvsbase\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E107272D-E2DA-1C49-AE82-6FA4F7C17C58}|03-ObjectClassConstructorInheritanceThisvsBase\\03-ObjectClassConstructorInheritanceThisvsBase.csproj|c:\\users\\anarh\\desktop\\apa202\\03-objectclassconstructorinheritancethisvsbase\\03-objectclassconstructorinheritancethisvsbase\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E107272D-E2DA-1C49-AE82-6FA4F7C17C58}|03-ObjectClassConstructorInheritanceThisvsBase\\03-ObjectClassConstructorInheritanceThisvsBase.csproj|solutionrelative:03-objectclassconstructorinheritancethisvsbase\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{021FF4A6-6737-4294-8EAF-335450322624}|03-ObjectClassConstructorInheritanceThisvsBase\\03-ObjectClassConstructorInheritanceThisvsBase.csproj|c:\\users\\anarh\\desktop\\apa202\\03-objectclassconstructorinheritancethisvsbase\\03-objectclassconstructorinheritancethisvsbase\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{021FF4A6-6737-4294-8EAF-335450322624}|03-ObjectClassConstructorInheritanceThisvsBase\\03-ObjectClassConstructorInheritanceThisvsBase.csproj|solutionrelative:03-objectclassconstructorinheritancethisvsbase\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E107272D-E2DA-1C49-AE82-6FA4F7C17C58}|03-ObjectClassConstructorInheritanceThisvsBase\\03-ObjectClassConstructorInheritanceThisvsBase.csproj|c:\\users\\anarh\\desktop\\apa202\\03-objectclassconstructorinheritancethisvsbase\\03-objectclassconstructorinheritancethisvsbase\\administrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E107272D-E2DA-1C49-AE82-6FA4F7C17C58}|03-ObjectClassConstructorInheritanceThisvsBase\\03-ObjectClassConstructorInheritanceThisvsBase.csproj|solutionrelative:03-objectclassconstructorinheritancethisvsbase\\administrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,11 +30,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Person.cs",
               "DocumentMoniker": "C:\\Users\\anarh\\Desktop\\Apa202\\03-ObjectClassConstructorInheritanceThisvsBase\\03-ObjectClassConstructorInheritanceThisvsBase\\Person.cs",
               "RelativeDocumentMoniker": "03-ObjectClassConstructorInheritanceThisvsBase\\Person.cs",
@@ -47,7 +47,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Student.cs",
               "DocumentMoniker": "C:\\Users\\anarh\\Desktop\\Apa202\\03-ObjectClassConstructorInheritanceThisvsBase\\03-ObjectClassConstructorInheritanceThisvsBase\\Student.cs",
               "RelativeDocumentMoniker": "03-ObjectClassConstructorInheritanceThisvsBase\\Student.cs",
@@ -60,7 +60,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Teacher.cs",
               "DocumentMoniker": "C:\\Users\\anarh\\Desktop\\Apa202\\03-ObjectClassConstructorInheritanceThisvsBase\\03-ObjectClassConstructorInheritanceThisvsBase\\Teacher.cs",
               "RelativeDocumentMoniker": "03-ObjectClassConstructorInheritanceThisvsBase\\Teacher.cs",
@@ -73,7 +73,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Administrator.cs",
               "DocumentMoniker": "C:\\Users\\anarh\\Desktop\\Apa202\\03-ObjectClassConstructorInheritanceThisvsBase\\03-ObjectClassConstructorInheritanceThisvsBase\\Administrator.cs",
               "RelativeDocumentMoniker": "03-ObjectClassConstructorInheritanceThisvsBase\\Administrator.cs",
@@ -86,13 +86,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\anarh\\Desktop\\Apa202\\03-ObjectClassConstructorInheritanceThisvsBase\\03-ObjectClassConstructorInheritanceThisvsBase\\Program.cs",
               "RelativeDocumentMoniker": "03-ObjectClassConstructorInheritanceThisvsBase\\Program.cs",
               "ToolTip": "C:\\Users\\anarh\\Desktop\\Apa202\\03-ObjectClassConstructorInheritanceThisvsBase\\03-ObjectClassConstructorInheritanceThisvsBase\\Program.cs",
               "RelativeToolTip": "03-ObjectClassConstructorInheritanceThisvsBase\\Program.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAADwvykAAABGAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABTAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-16T18:47:00.522Z",
               "EditorCaption": ""
