@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="04-AccessModifiresEncupsulationNamespace/04-AccessModifiresEncupsulationNamespace.csproj" />
+  <Project Path="Domain/Domain.csproj" />
+</Solution>
