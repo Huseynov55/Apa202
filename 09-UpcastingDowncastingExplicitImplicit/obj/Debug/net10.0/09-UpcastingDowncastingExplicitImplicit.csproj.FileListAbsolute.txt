@@ -1,0 +1,15 @@
+C:\Users\anarh\Desktop\Apa202\09-UpcastingDowncastingExplicitImplicit\bin\Debug\net10.0\09-UpcastingDowncastingExplicitImplicit.exe
+C:\Users\anarh\Desktop\Apa202\09-UpcastingDowncastingExplicitImplicit\bin\Debug\net10.0\09-UpcastingDowncastingExplicitImplicit.deps.json
+C:\Users\anarh\Desktop\Apa202\09-UpcastingDowncastingExplicitImplicit\bin\Debug\net10.0\09-UpcastingDowncastingExplicitImplicit.runtimeconfig.json
+C:\Users\anarh\Desktop\Apa202\09-UpcastingDowncastingExplicitImplicit\bin\Debug\net10.0\09-UpcastingDowncastingExplicitImplicit.dll
+C:\Users\anarh\Desktop\Apa202\09-UpcastingDowncastingExplicitImplicit\bin\Debug\net10.0\09-UpcastingDowncastingExplicitImplicit.pdb
+C:\Users\anarh\Desktop\Apa202\09-UpcastingDowncastingExplicitImplicit\obj\Debug\net10.0\09-UpcastingDowncastingExplicitImplicit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anarh\Desktop\Apa202\09-UpcastingDowncastingExplicitImplicit\obj\Debug\net10.0\09-UpcastingDowncastingExplicitImplicit.AssemblyInfoInputs.cache
+C:\Users\anarh\Desktop\Apa202\09-UpcastingDowncastingExplicitImplicit\obj\Debug\net10.0\09-UpcastingDowncastingExplicitImplicit.AssemblyInfo.cs
+C:\Users\anarh\Desktop\Apa202\09-UpcastingDowncastingExplicitImplicit\obj\Debug\net10.0\09-UpcastingDowncastingExplicitImplicit.csproj.CoreCompileInputs.cache
+C:\Users\anarh\Desktop\Apa202\09-UpcastingDowncastingExplicitImplicit\obj\Debug\net10.0\09-UpcastingDowncastingExplicitImplicit.sourcelink.json
+C:\Users\anarh\Desktop\Apa202\09-UpcastingDowncastingExplicitImplicit\obj\Debug\net10.0\09-UpcastingDowncastingExplicitImplicit.dll
+C:\Users\anarh\Desktop\Apa202\09-UpcastingDowncastingExplicitImplicit\obj\Debug\net10.0\refint\09-UpcastingDowncastingExplicitImplicit.dll
+C:\Users\anarh\Desktop\Apa202\09-UpcastingDowncastingExplicitImplicit\obj\Debug\net10.0\09-UpcastingDowncastingExplicitImplicit.pdb
+C:\Users\anarh\Desktop\Apa202\09-UpcastingDowncastingExplicitImplicit\obj\Debug\net10.0\09-UpcastingDowncastingExplicitImplicit.genruntimeconfig.cache
+C:\Users\anarh\Desktop\Apa202\09-UpcastingDowncastingExplicitImplicit\obj\Debug\net10.0\ref\09-UpcastingDowncastingExplicitImplicit.dll

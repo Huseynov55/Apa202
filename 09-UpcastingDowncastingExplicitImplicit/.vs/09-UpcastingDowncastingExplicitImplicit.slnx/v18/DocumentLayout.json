@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\anarh\\Desktop\\Apa202\\09-UpcastingDowncastingExplicitImplicit\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1EB86B06-68AC-4F64-B9F6-FD86AC849E0D}|09-UpcastingDowncastingExplicitImplicit.csproj|c:\\users\\anarh\\desktop\\apa202\\09-upcastingdowncastingexplicitimplicit\\models\\dollar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EB86B06-68AC-4F64-B9F6-FD86AC849E0D}|09-UpcastingDowncastingExplicitImplicit.csproj|solutionrelative:models\\dollar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EB86B06-68AC-4F64-B9F6-FD86AC849E0D}|09-UpcastingDowncastingExplicitImplicit.csproj|c:\\users\\anarh\\desktop\\apa202\\09-upcastingdowncastingexplicitimplicit\\models\\manat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EB86B06-68AC-4F64-B9F6-FD86AC849E0D}|09-UpcastingDowncastingExplicitImplicit.csproj|solutionrelative:models\\manat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EB86B06-68AC-4F64-B9F6-FD86AC849E0D}|09-UpcastingDowncastingExplicitImplicit.csproj|c:\\users\\anarh\\desktop\\apa202\\09-upcastingdowncastingexplicitimplicit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EB86B06-68AC-4F64-B9F6-FD86AC849E0D}|09-UpcastingDowncastingExplicitImplicit.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dollar.cs",
+              "DocumentMoniker": "C:\\Users\\anarh\\Desktop\\Apa202\\09-UpcastingDowncastingExplicitImplicit\\Models\\Dollar.cs",
+              "RelativeDocumentMoniker": "Models\\Dollar.cs",
+              "ToolTip": "C:\\Users\\anarh\\Desktop\\Apa202\\09-UpcastingDowncastingExplicitImplicit\\Models\\Dollar.cs",
+              "RelativeToolTip": "Models\\Dollar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T06:11:44.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Manat.cs",
+              "DocumentMoniker": "C:\\Users\\anarh\\Desktop\\Apa202\\09-UpcastingDowncastingExplicitImplicit\\Models\\Manat.cs",
+              "RelativeDocumentMoniker": "Models\\Manat.cs",
+              "ToolTip": "C:\\Users\\anarh\\Desktop\\Apa202\\09-UpcastingDowncastingExplicitImplicit\\Models\\Manat.cs",
+              "RelativeToolTip": "Models\\Manat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T06:11:35.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\anarh\\Desktop\\Apa202\\09-UpcastingDowncastingExplicitImplicit\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\anarh\\Desktop\\Apa202\\09-UpcastingDowncastingExplicitImplicit\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAiwEgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T05:32:38.408Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
