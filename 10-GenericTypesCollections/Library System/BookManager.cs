@@ -1,0 +1,102 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace _10_GenericTypesCollections.Library_System
+{
+    internal class BookManager
+    {
+        public List<Book> Books { get; set; }
+        public Dictionary<string, List<Book>> BooksByAuthor { get; set; }
+        public Queue<string> WaitingQueue { get; set; }
+        public Stack<Book> RecentlyReturned { get; set; }
+
+        public BookManager()
+        {
+            Books = new List<Book>();
+            BooksByAuthor = new Dictionary<string, List<Book>>();
+            WaitingQueue = new Queue<string>();
+            RecentlyReturned = new Stack<Book>();
+        }
+
+        public void AddBook(Book book)
+        {
+            Books.Add(book);
+            bool muellif = false;
+            foreach (var item in BooksByAuthor.Keys)
+            {
+                if (item == book.Author)
+                {
+
+                    muellif = true;
+                    break;
+                }
+            }
+
+            if (muellif == false)
+            {
+                BooksByAuthor[book.Author] = new List<Book>();
+            }
+
+            BooksByAuthor[book.Author].Add(book);
+        }
+
+        public Book SearchByTitle(string title)
+        {
+            foreach (var book in Books)
+            {
+                if (book.Title == title)
+                {
+                    return book;
+                }
+            }
+            return null;
+
+        }
+
+        public List<Book> GetBooksByAuthor(string author)
+        {
+
+            foreach (var item in BooksByAuthor.Keys)
+            {
+                if (item == author)
+                {
+                    return BooksByAuthor[item];
+                }
+            }
+            return new List<Book>();
+        }
+
+        public void AddToWaitingQueue(string memberName)
+        {
+            WaitingQueue.Enqueue(memberName);
+            Console.WriteLine($"[{memberName} novbeye elave olundu]");
+        }
+
+        public string ServeNextInQueue()
+        {
+            if (WaitingQueue.Count == 0)
+            {
+                return null;
+            }
+
+            return WaitingQueue.Dequeue();
+        }
+
+        public void ReturnBook(Book book)
+        {
+            RecentlyReturned.Push(book);
+            Console.WriteLine($"Kitab qebul edildi:[{book.Title}]");
+        }
+
+        public Book GetLastReturnedBook()
+        {
+            if (RecentlyReturned.Count == 0)
+            {
+                return null;
+            }
+            return RecentlyReturned.Peek();
+        }
+
+    }
+}

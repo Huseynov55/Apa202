@@ -1,0 +1,15 @@
+C:\Users\anarh\Desktop\Apa202\10-GenericTypesCollections\bin\Debug\net10.0\10-GenericTypesCollections.exe
+C:\Users\anarh\Desktop\Apa202\10-GenericTypesCollections\bin\Debug\net10.0\10-GenericTypesCollections.deps.json
+C:\Users\anarh\Desktop\Apa202\10-GenericTypesCollections\bin\Debug\net10.0\10-GenericTypesCollections.runtimeconfig.json
+C:\Users\anarh\Desktop\Apa202\10-GenericTypesCollections\bin\Debug\net10.0\10-GenericTypesCollections.dll
+C:\Users\anarh\Desktop\Apa202\10-GenericTypesCollections\bin\Debug\net10.0\10-GenericTypesCollections.pdb
+C:\Users\anarh\Desktop\Apa202\10-GenericTypesCollections\obj\Debug\net10.0\10-GenericTypesCollections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anarh\Desktop\Apa202\10-GenericTypesCollections\obj\Debug\net10.0\10-GenericTypesCollections.AssemblyInfoInputs.cache
+C:\Users\anarh\Desktop\Apa202\10-GenericTypesCollections\obj\Debug\net10.0\10-GenericTypesCollections.AssemblyInfo.cs
+C:\Users\anarh\Desktop\Apa202\10-GenericTypesCollections\obj\Debug\net10.0\10-GenericTypesCollections.csproj.CoreCompileInputs.cache
+C:\Users\anarh\Desktop\Apa202\10-GenericTypesCollections\obj\Debug\net10.0\10-GenericTypesCollections.sourcelink.json
+C:\Users\anarh\Desktop\Apa202\10-GenericTypesCollections\obj\Debug\net10.0\10-GenericTypesCollections.dll
+C:\Users\anarh\Desktop\Apa202\10-GenericTypesCollections\obj\Debug\net10.0\refint\10-GenericTypesCollections.dll
+C:\Users\anarh\Desktop\Apa202\10-GenericTypesCollections\obj\Debug\net10.0\10-GenericTypesCollections.pdb
+C:\Users\anarh\Desktop\Apa202\10-GenericTypesCollections\obj\Debug\net10.0\10-GenericTypesCollections.genruntimeconfig.cache
+C:\Users\anarh\Desktop\Apa202\10-GenericTypesCollections\obj\Debug\net10.0\ref\10-GenericTypesCollections.dll
