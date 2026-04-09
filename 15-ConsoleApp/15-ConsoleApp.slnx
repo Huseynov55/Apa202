@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="CourseApp/CourseApp.csproj" />
+  <Project Path="DomainLayer/DomainLayer.csproj" />
+  <Project Path="RepositoryLayer/RepositoryLayer.csproj" />
+</Solution>
