@@ -1,15 +1,14 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
-using System.Text.RegularExpressions;
-
+using DomainLayer.Entities;
 namespace RepositoryLayer.Repositories.Interfaces
 {
-    public interface IGroupRepository : IRepository<Group>
+    public interface IGroupRepository : IRepository<CourseGroup>
     {
-        List<Group> GetAllByTeacher(string teacher);
-        List<Group> GetAllByRoom(string room);
-        List<Group> SearchByName(string name);
+        List<CourseGroup> GetAllByTeacher(string teacher);
+        List<CourseGroup> GetAllByRoom(string room);
+        List<CourseGroup> SearchByName(string name);
 
        
     }

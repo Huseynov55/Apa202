@@ -1,37 +1,32 @@
 ﻿using DomainLayer.Entities;
-using RepositoryLayer.Data;
-using RepositoryLayer.Exceptions;
-using RepositoryLayer.Repositories.Interfaces;
+using RepositoryLayer.Repositories.Implementations;
+using ServiceLayer.Services.Interfaces;
 using System;
 using System.Collections.Generic;
 using System.Text;
 using System.Text.RegularExpressions;
 
-namespace RepositoryLayer.Repositories.Implementations
+namespace ServiceLayer.Services.Implementations
 {
-    public class GroupRepository : IGroupRepository
+    public class GroupService : IGroupService
     {
-        public void Create(CourseGroup data)
+        private int _count = 1;
+        private GroupRepository _groupRepository;
+
+        public CourseGroup Create(CourseGroup group)
         {
-            try
-            {
-                if (data is null) throw new NotFoundException("Data not found!!!");
-
-                AppDbContext<CourseGroup>.datas.Add(data);
-            }
-            catch (Exception ex)
-            {
-
-                Console.WriteLine(ex.Message);
-            }
+            group.Id = _count;
+            _groupRepository.Create(group);
+            _count++;
+            return group;
         }
 
-        public void Delete(CourseGroup data)
+        public void Delete(int id)
         {
             throw new NotImplementedException();
         }
 
-        public List<CourseGroup> GetAll(Predicate<CourseGroup> predicate)
+        public List<CourseGroup> GetAll()
         {
             throw new NotImplementedException();
         }
@@ -56,7 +51,7 @@ namespace RepositoryLayer.Repositories.Implementations
             throw new NotImplementedException();
         }
 
-        public void Update(CourseGroup data)
+        public CourseGroup Update(int id, CourseGroup group)
         {
             throw new NotImplementedException();
         }

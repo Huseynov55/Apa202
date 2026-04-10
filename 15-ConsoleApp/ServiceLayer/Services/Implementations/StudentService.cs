@@ -1,36 +1,32 @@
 ﻿using DomainLayer.Entities;
 using RepositoryLayer.Data;
 using RepositoryLayer.Exceptions;
+using RepositoryLayer.Repositories.Implementations;
 using RepositoryLayer.Repositories.Interfaces;
+using ServiceLayer.Services.Interfaces;
 using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace RepositoryLayer.Repositories.Implementations
+namespace ServiceLayer.Services.Implementations
 {
-    public class StudentRepository : IStudentRepository
+    public class StudentService : IStudentService
     {
-        public void Create(Student data)
+        private int _count = 1;
+        private StudentRepository _studentRepository;
+        public Student Create(Student student, int groupId)
         {
-            try
-            {
-                if (data is null) throw new NotFoundException("Data not found!!!");
-
-                AppDbContext<Student>.datas.Add(data);
-            }
-            catch (Exception ex)
-            {
-
-                Console.WriteLine(ex.Message);
-            }
+            student.Id = _count;
+            _count++;
+            return student;
         }
 
-        public void Delete(Student data)
+        public void Delete(int id)
         {
             throw new NotImplementedException();
         }
 
-        public List<Student> GetAll(Predicate<Student> predicate)
+        public List<Student> GetAll()
         {
             throw new NotImplementedException();
         }
@@ -55,7 +51,7 @@ namespace RepositoryLayer.Repositories.Implementations
             throw new NotImplementedException();
         }
 
-        public void Update(Student data)
+        public Student Update(int id, Student student)
         {
             throw new NotImplementedException();
         }

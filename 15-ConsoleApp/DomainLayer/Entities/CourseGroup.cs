@@ -5,12 +5,10 @@ using System.Text;
 
 namespace DomainLayer.Entities
 {
-    public class Group : BaseEntity
+    public class CourseGroup : BaseEntity
     {
         public string Name { get; set; }
         public string Teacher { get; set; }
         public int Room { get; set; }
-
-
     }
 }

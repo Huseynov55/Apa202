@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("DomainLayer")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("ServiceLayer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5b0e3256096268d333d3a63af40cd6af008277e8")]
-[assembly: System.Reflection.AssemblyProductAttribute("DomainLayer")]
-[assembly: System.Reflection.AssemblyTitleAttribute("DomainLayer")]
+[assembly: System.Reflection.AssemblyProductAttribute("ServiceLayer")]
+[assembly: System.Reflection.AssemblyTitleAttribute("ServiceLayer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment sınıfı tarafından oluşturuldu.
