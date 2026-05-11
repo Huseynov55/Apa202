@@ -46,18 +46,19 @@ namespace _27_FrontToBackSqlConnection.Controllers
         //        IsDeleted = false
         //    }
         //};
-        public IActionResult Index()
+        public async Task<IActionResult> Index()
         {
-            List<Slider> sliders = _context.Sliders
+            List<Slider> sliders = await _context.Sliders
                 .Where(s => !s.IsDeleted)
                 .OrderBy(s => s.Order)
                 .Take(2)
-                .ToList();
+                .ToListAsync();
 
-            List<Product> products = _context.Products
+            List<Product> products = await _context.Products
                 .Where(p => !p.IsDeleted)
-                .Include(p=>p.ProductImages)
-                .ToList();
+                .Include(p=>p.ProductImages.Where(pi=> pi.IsPrimary != null))
+                .Take(4)
+                .ToListAsync();
 
 
             HomeVM homeVM = new HomeVM()
